@@ -99,7 +99,7 @@ http://209.91.213.10:8088/play/a013
 https://bcovlive-a.akamaihd.net/bdbdca51c15243fbaca92fd54c42d45a/us-east-1/6245817279001/playlist.m3u8
 #EXTINF:-1 tvg-id="AmericanHorrors.us" status="online",American Horrors (480p)
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-#EXTINF:-1 tvg-id="AmericasAuctionChannel.us" status="timeout",AACTV America's Auction Channel (1080p)
+#EXTINF:-1 tvg-id="AmericasAuctionChannel.us" status="error",AACTV America's Auction Channel (1080p)
 https://hls.youtb.workers.dev/channel/UCMeyWH1vyb1TT6Vimp4MqLA.m3u8
 #EXTINF:-1 tvg-id="AmericasVoice.us" status="timeout",America's Voice (720p)
 https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
@@ -239,7 +239,7 @@ http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
 http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8
 #EXTINF:-1 tvg-id="ChristmasMusic.us" status="timeout",Faithlife TV Christmas Music (720p)
 https://vse2-na-us-ne24.secdn.net/logos-channel/live/christmas/playlist.m3u8
-#EXTINF:-1 tvg-id="CinemaxEast.us" status="blocked",Cinemax East (360p) [Geo-blocked]
+#EXTINF:-1 tvg-id="CinemaxEast.us" status="error",Cinemax East (360p) [Geo-blocked]
 http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CinePride.us" status="timeout",CinePride (720p)
 https://content.uplynk.com/channel/e54d7e92a0154d67ae0770c9d4210e77.m3u8
@@ -256,7 +256,7 @@ https://16live00.akamaized.net/CNBC/index.m3u8
 #EXTINF:-1 tvg-id="CNBCEurope.uk" status="timeout" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",CNBC Europe (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s65/index.m3u8
-#EXTINF:-1 tvg-id="CNBCIndonesia.id" status="timeout",CNBC Indonesia (720p)
+#EXTINF:-1 tvg-id="CNBCIndonesia.id" status="error",CNBC Indonesia (720p)
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CNCTV.us" status="timeout",County News Center (CNC TV) (San Diego CA) (720p)
 https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sdcounty/G0283_012/playlist.m3u8
@@ -270,7 +270,7 @@ https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
 #EXTINF:-1 tvg-id="CNN.us" status="timeout",CNN USA (360p)
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
-#EXTINF:-1 tvg-id="CNNBrasil.br" status="timeout",CNN Brasil (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="CNNBrasil.br" status="error",CNN Brasil (1080p) [Not 24/7]
 https://hls.youtb.workers.dev/channel/UCvdwhh_fDyWccR42-rReZLw.m3u8
 #EXTINF:-1 tvg-id="CNNChile.cl" status="timeout",CNN Chile (720p)
 https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
@@ -450,7 +450,7 @@ http://media1.adventist.no:1935/live/hope1/playlist.m3u8
 http://media1.adventist.no:1935/live/hope2/playlist.m3u8
 #EXTINF:-1 tvg-id="HopeChannelNorway.no" status="timeout",Hope Channel Norge (360p)
 http://media1.adventist.no:1935/live/hope3/playlist.m3u8
-#EXTINF:-1 tvg-id="HorizonArmenian.am" status="error",Horizon Armenian (1080p)
+#EXTINF:-1 tvg-id="HorizonArmenian.am" status="online",Horizon Armenian (1080p)
 http://5.254.76.34:17070/C441/index.m3u8?token=kdsdkwy453wrRq29IIIo
 #EXTINF:-1 tvg-id="HumraazTV.us" status="timeout",Humraaz TV [Not 24/7]
 https://cdn61.liveonlineservices.com/hls/humraaz.m3u8
@@ -763,7 +763,7 @@ https://tve-live-lln.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3
 https://tve-live-lln.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-id="TCMWest.us" status="timeout",TCM West (720p) [Geo-blocked]
 https://tve-live-lln.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1 tvg-id="TCTKids.us" status="timeout",TCT Kids (1080p)
+#EXTINF:-1 tvg-id="TCTKids.us" status="error",TCT Kids (1080p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://api.new.livestream.com/accounts/29565692/events/9321713
 #EXTINF:-1 tvg-id="TDAmeritradeNetwork.us" status="timeout",TD Ameritrade Network (1080p)
 https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
