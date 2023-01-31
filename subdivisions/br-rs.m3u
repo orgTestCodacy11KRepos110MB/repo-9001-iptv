@@ -1,0 +1,5 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt/mi.tv.xml"
+#EXTINF:-1 tvg-id="AdessoTV.br" tvg-logo="https://i.imgur.com/KgetM8j.png" group-title="General",Adesso TV (720p)
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+#EXTINF:-1 tvg-id="TVERS.br" tvg-logo="https://i.imgur.com/MQ6lJpS.png" group-title="Culture;Education",TVE RS
+https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8

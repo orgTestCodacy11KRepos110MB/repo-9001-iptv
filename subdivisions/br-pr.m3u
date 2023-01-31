@@ -1,0 +1,5 @@
+#EXTM3U x-tvg-url=""
+#EXTINF:-1 tvg-id="ConectaMaisTV.br" tvg-logo="https://i.imgur.com/qHwTWlz.png" group-title="Entertainment",Conecta+ TV (720p)
+http://189.14.239.62:1935/webtv/livestream1/playlist.m3u8
+#EXTINF:-1 tvg-id="CWBTV.br" tvg-logo="https://i.imgur.com/S0ISpmU.png" group-title="Family;General",CWB TV (720p)
+https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8
